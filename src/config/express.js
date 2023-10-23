@@ -21,5 +21,5 @@ module.exports = (app) => {
     app.use(express.urlencoded({ extended: true }));
 
     // Set up static files
-    app.use( express.static(path.resolve(__dirname, '../public')));
+    app.use(express.static(path.resolve(__dirname, '../public')));
 };
