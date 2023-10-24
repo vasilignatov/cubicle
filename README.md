@@ -1,5 +1,6 @@
 # cubicle
 Multi Page Application (MPA) created with Express and Mongoose.
+"Cubicle" is a place, where you can browse some of the most popular Rubik cubes in the world and add some new cubes that you have discovered. 
 
 [Live Demo](https://cubical-xvwg.onrender.com/)
 
